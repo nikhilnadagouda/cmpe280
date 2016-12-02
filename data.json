@@ -1,0 +1,59 @@
+{
+	"car":[
+	{"id":1, "name":"Nissan Altima", "manufacturer":"Nissan", "model":"Altima LSX", "year":"2015", "type":"mid-size", 
+		"price":{"day":95,"week":300,"month":600}, 
+		"image":"altima", "mileage":"11", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":2, "name":"Honda Accord", "manufacturer":"", "model":"", "year":"", "type":"mid-size", 
+		"price":{"day":90,"week":250,"month":550}, 
+	 "image":"accord", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":3, "name":"Honda CRV", "manufacturer":"", "model":"", "year":"", "type":"", 
+		"price":{"day":90,"week":250,"month":550},
+	 "image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":4, "name":"VolksWagen Golf", "manufacturer":"VolksWagen", "model":"Golf", "year":"2016", "type":"Compact", 
+		"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"12", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Urban. Legend."},
+
+	{"id":5, "name":"Honda City", "manufacturer":"", "model":"", "year":"", "type":"", 
+		"price":{"day":90,"week":250,"month":550},
+	 "image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":6, "name":"Nissan Leaf", "manufacturer":"Nissan", "model":"Leaf", "year":"2016", "type":"Compact", 
+		"price":{"day":90,"week":250,"month":550},
+		"image":"", "mileage":"9", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"100% Electric, 100% Fun"},
+
+	{"id":7, "name":"Toyota Camry", "manufacturer":"Toyota", "model":"Camry", "year":"2015", "type":"Compact", 
+		"price":{"day":80,"week":220,"month":650},
+	"image":"", "mileage":"15", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Let's go places"},
+
+	{"id":8, "name":"Toyota Prius", "manufacturer":"Toyota", "model":"Pruis", "year":"2016", "type":"Compact", 
+		"price":{"day":80,"week":250,"month":550},
+	"image":"", "mileage":"12", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Take everyone by surprise"},
+
+	{"id":9, "name":"Hyundai Sonota", "manufacturer":"", "model":"", "year":"", "type":"", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":10, "name":"Toyota Corolla", "manufacturer":"", "model":"", "year":"", "type":"", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":11, "name":"Volkswagen Jetta", "manufacturer":"", "model":"", "year":"", "type":"", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":12, "name":"Volkswagen Passat", "manufacturer":"", "model":"", "year":"", "type":"", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+
+	{"id":14, "name":"Renault Megane", "manufacturer":"", "model":"", "year":"", "type":"SUV", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"},
+	
+	{"id":13, "name":"Toyota Odyssey", "manufacturer":"", "model":"", "year":"", "type":"SUV", 
+	"price":{"day":90,"week":250,"month":550},
+	"image":"", "mileage":"1221", "capacity":"4 Aults / 2 Adults + 3 Kids", "tagline":"Best for a family"}
+	]
+}
